@@ -57,7 +57,53 @@ header div .contact{
 	text-align: center;
 	background-color: #18BC9C;
 	color:white;
-	height: 600px;
-	font-size: bolder;
+	height: 580px;
+}
+#home h1{
+	font-size: 30px;
+	font-weight: bolder;
+}
+#home p{
+	font-size:15px;
 }
 /*Section Portfolio*/
+
+#portfolio {
+	text-align: center;
+	padding-top:50px;
+	color: #333333; 
+	font-size: 27px;
+	font-weight: bolder;
+	height:800px;
+	background-color: white;
+
+}
+/*section about*/
+#about{
+	background-color:#18BC9C;
+	color:white; 
+	height: 350px;
+}
+#about .title{
+	text-align: center;
+	font-size: 27px;
+	font-weight: bolder;
+	padding-top: 50px;
+}
+
+#about .parrafo{
+	text-align: justify;
+	font-size: 18px;
+}
+#about #p1{
+	padding-left:20%;
+	padding-right:3%;
+}
+#about #p2{
+	padding-right:20%;
+	padding-left:3%;
+}
+
+.button-container{
+	text-align: center;
+}
