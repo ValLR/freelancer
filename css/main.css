@@ -82,7 +82,7 @@ header div .contact{
 #about{
 	background-color:#18BC9C;
 	color:white; 
-	height: 350px;
+	height: 370px;
 }
 #about .title{
 	text-align: center;
@@ -103,7 +103,14 @@ header div .contact{
 	padding-right:20%;
 	padding-left:3%;
 }
-
 .button-container{
 	text-align: center;
+}
+.button-container button{
+	padding:10px 25px;
+	background-color: #18BC9C;
+	border:1.5px solid white;
+	color:white;
+	border-radius: 7px;
+	font-size: 20px;
 }
